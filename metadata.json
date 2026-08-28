@@ -1,0 +1,10 @@
+{
+  "name": "FlowGuard AI",
+  "description": "SME Financial Partner - AI-driven cash flow clarity, payments optimization, what-if simulation, and voice assistant for business owners.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
